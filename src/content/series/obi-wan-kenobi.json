@@ -1,0 +1,60 @@
+{
+    "id": "obi-wan-kenobi",
+    "nombre": "Obi-Wan Kenobi",
+    "poster": "https://cuevana.pro/resize/200/storage/30694/AkbpGSQ3AtQSjZGwvr5lLpbIhn6rXim1MuUjwLXl.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/37712/qwVEu62x2GL7jX2VA3bTluyi7HkhCcGT85EobQM8.jpg",
+    "año": 2022,
+    "descripcion": "Bajo el dominio del Imperio, Obi-Wan Kenobi decide emprender una misión trascendental.",
+    "generos": [
+        "Accion",
+        "Drama",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia",
+        "Disney"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi92dm14cDFrNnFlN3U=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/30695/ebOjTlMptwlq1DpcU7M0x5eWug0rhq16UNNv2LHG.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9rN2lqcHJtb2p3NGk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/30696/9f4tmAYWDj0sfil9rgWAUr1X5Jx4Vx4Hj9BaXR4j.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9mcDY3Mmh5eXNmeXc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/32636/Htv0BPIweFPRzrMOIawSUhPtLr9HF6TqCsnoasCX.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9iMXpnbXc0eG9hNWw=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/34445/8VQyxn2YvWHwQM7Ne2kRvhxCCQemSPYOxHOwI9Fe.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9mcTZjNXZ1cTN5eTY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/36037/bO3HbbryFTQQToBcOF9fbwnBjakZHQDMrcLJtbzp.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi80cjZxYjQ3c3kxNnk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/37712/qwVEu62x2GL7jX2VA3bTluyi7HkhCcGT85EobQM8.jpg"
+                }
+            ]
+        }
+    ]
+}

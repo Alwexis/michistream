@@ -1,0 +1,68 @@
+{
+    "id": "heartstopper",
+    "nombre": "Heartstopper",
+    "poster": "https://cuevana.pro/resize/200/storage/22381/yJsKYrs2V8rvpyKKQTpmOj6aBRalGiv5MjITUA9G.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/22411/FrAJJDYePJ8bgrItHbrtNoHHH5etYAm5ufCIhbE9.jpg",
+    "año": 2022,
+    "descripcion": "Dos adolescentes británicos, Nick Nelson y Charlie Spring, estudian en una escuela primaria exclusiva para varones. Charlie, un pensador demasiado nervioso y abiertamente gay, y Nick, un jugador de rugby alegre y de buen corazón, un día se sientan juntos en clase. La amistad florece rápidamente, pero ¿podría haber algo más...? Basada en la novela gráfica de Alice Oseman.",
+    "generos": [
+        "Drama",
+        "Familia"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi83cnppOWRtZzV3MXE=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22382/SCQouoRZ2yRAhaxAc8MZRX9G9HTtowWppYqpTDJM.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9kOWJ1d2hvNmVncnE=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22387/47qz9Ez6SjMF1B10WyRl619Ou5q3O8yAl0lEhk1s.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9kODZycmwxeHQzb2U=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22388/3a2CgKc3Kivi1EYS2QdAw742cz6WF4tapH5mibpt.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9yM2NjMnB0OXlrYno=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22391/kOB1Kc1Dtk96T6ONzVFkkpwS6qA4yEIheGle4Yve.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9vMGo2dTQ2Z3k1ZWw=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22396/EfTB9G0vqZ5nWoF0OvuzDxrxtwk846sB54q1px1X.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9sZjcyZ2tjZHZ4M2w=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22403/hziVAcRKXGfxK3Q1P7qzr0jm6awWSlj0lXE8DwcA.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9nemFsaW9zNnU1dmg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22406/BA60142AgksZIyJmkSiNwZYIH5KKnKQby1mt7vZ3.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi96dWQ1bW90NjJjZ3o=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22411/FrAJJDYePJ8bgrItHbrtNoHHH5etYAm5ufCIhbE9.jpg"
+                }
+            ]
+        }
+    ]
+}

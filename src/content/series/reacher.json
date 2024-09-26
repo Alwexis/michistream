@@ -1,0 +1,124 @@
+{
+    "id": "reacher",
+    "nombre": "Reacher",
+    "poster": "https://cuevana.pro/resize/200/storage/39420/0tS56hSnAMzLNJ29EsgbuI6XEU35e9Sbcr9xdFtB.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/67417/qfCG0kSjJ2lKvalkWuMhmw2DIUtPELpLPVeFQHnI.jpg",
+    "año": 2022,
+    "descripcion": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+    "generos": [
+        "Accion",
+        "Drama",
+        "Misterio",
+        "Crimen",
+        "Aventura"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9tc2F1NGtzbGE5M3Q=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/14321/EgqfOoPPVlO0MkDyDthv1tjlKvH9ez8UypoZR614.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9jbHczeWZ2NGp4dTk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/14322/UBD0jLd0ENwh1cqbfYVz1pOTy3hpgYXQt8gnxx4M.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi83aXp2YTF1cTVubXk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/14323/38EhiFNSCo8cv7r2Ol3GJQUCYA8T7wvzR1H7crLh.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9sdmQ2dHZtZGduZXg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/14324/HxTec9BvLVhuykh7jinlvakP0jRX5HqNQ4pfBRj1.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9kYmRqejZlMjNtem8=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/14325/jWiOEMjaM7u1KyLCv6ewCQkmbteXJatG0c3PKAnr.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi91NnFhcmhham5xOGs=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/14326/L3HDAzWHM9NI3TkCpQYkvM2IKnDxm1ZQWkpcEzE0.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi94c3RjNzA1azdzcXg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/14327/gnVOvS6ckR9egmJkPEogJYVHg5KYuS67kfQ1HgSw.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9lajJwY3NzOGRzZzQ=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/14328/wOWvyMlwt5BuSxiLJQUXVsfcVDBFhbhE37oCgFTy.jpg"
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9nbGJ5aDU2OTJjenU=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67410/93N29wmf5wxSqQOUZfCLxH8Pm7NXeTZP9UNexLFv.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9ndGc0YTdqb24zbTg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67411/ZkhZWdDNGRAbRfCnmBqxmdr4wSVfuSfkFr7PFVin.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi96ZGt1MzV6MGNrc28=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67412/QYX2tECQ7pc592v6vbedmeOVyRA2KgYdhZC1ku8U.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi85MGx5NXhkejBlOTk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67413/sTOV5Np6GcH2SF37lFTxpsvG3Gd2qIJzDZBo9G3X.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9idng0OWVpcG05NGM=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67414/X8ILqR8VjU5bRzXekt0HFv1nCG2fZGOad6c8OCXB.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9lcDV3c3dvbDQxdW4=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67415/WO97RyPZXRF8KJopB3CI4hapcJdbQVZrj1bRs7wt.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9kYzJjM29xdWxpNmk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67416/XzULcmHEaHq2oi4utPKYa6ZWFxMGbswIy59cxElN.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9lcmR6ZzNmanYzb3A=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67417/qfCG0kSjJ2lKvalkWuMhmw2DIUtPELpLPVeFQHnI.jpg"
+                }
+            ]
+        }
+    ]
+}

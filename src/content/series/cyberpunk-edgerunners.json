@@ -1,0 +1,84 @@
+{
+    "id": "cyberpunk-edgerunners",
+    "nombre": "Cyberpunk: Edgerunners",
+    "poster": "https://cuevana.pro/resize/200/storage/51502/Z3HWkyildMcJHRiXvTi2RR0aeLecE8bQ4Wtd3xky.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/51512/kmWsuCDinse3GEkXfGY68cFx6AHG3j4Jlv7QkKA9.jpg",
+    "año": 2022,
+    "descripcion": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+    "generos": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia",
+        "Animacion",
+        "Anime"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi81b3ZrOGlxMWIwcTY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51503/RbC0C6KeQau8XTmeTckxDR1aUZhUHSGxj3yeqFBW.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi84MTgyczV1cHRzZ3U=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51504/9C5KKF8prWB2lVq6TJFWBhhWeUt80FKQQpoWKmVR.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9oYmlkZ2M3eWN1cmQ=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51505/4Z7vu8vIXzelxJbrzDjo4Rtan4q1C2PXLLgOGzDf.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9tMHJmYTJkbzM4enU=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51506/UYeI0xQGskXvxWtWBc18LDTzGql8OvHEDFKUjsvu.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi80bndoY29ucXQxNHk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51507/V61kUGkF5j5erlD4H8qb56gTFkTawLqDrbuRPClm.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9idmg2a2Jybnd2cTA=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51508/LQQGMgEhucHJvbCd3lsZdFeX6sTuPVCM4gdN9Yed.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi83dWp5dG9qdzh3Z3Q=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51509/9GAk5U5DosZ15gmvnfXw9YAn8w6mZxO8X06X8Vyl.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9lMzNnbjNpdWU1cXU=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51510/ICGsaVjP3VtL4erOsKynmAXqRykmFOUiHVY4m4Hu.jpg"
+                },
+                {
+                    "numero": 9,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi96c3Q0YmJranNsaHY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51511/BXMreq5HpTzVEhd5r8FfYKqDlkES9vNrykYn1XRB.jpg"
+                },
+                {
+                    "numero": 10,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi82NWI5dmIwZGVqb3Q=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/51512/kmWsuCDinse3GEkXfGY68cFx6AHG3j4Jlv7QkKA9.jpg"
+                }
+            ]
+        }
+    ]
+}

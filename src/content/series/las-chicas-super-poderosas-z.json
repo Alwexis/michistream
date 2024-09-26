@@ -1,0 +1,329 @@
+{
+    "id": "las-chicas-super-poderosas-z",
+    "nombre": "Las Chicas Super Poderosas Z",
+    "poster": "https://www.lacartoons.com/system/series/posters/000/000/377/original/Las_chicas_superpoderosas_Z_Serie_de_TV-190335246-mmed.jpeg?1608089062",
+    "background": "https://www.lacartoons.com/system/series/backgrounds/000/000/377/original/Super_Poderosas_Z_800.jpeg?1608089062",
+    "año": 2006,
+    "descripcion": "Todo comienza en el laboratorio del Profesor Utonio, donde él, junto a su hijo Ken y su pequeña mascota, un perro robot llamado Poochie, trabajan en la modificación de una sustancia, la Sustancia 'X'. A diferencia de la versión original no es Mojo Jojo quien añadió la Sustancia \"X\", sino Poochie quien deja caer un Daifuku en el recipiente que contenía la misma, transformándose completamente en una nueva sustancia, a la cual el Profesor denomina Sustancia 'Z'. En un momento de desesperación provocado por un gigantesco iceberg que produce anomalías climatológicas en todo el mundo, Ken carga la sustancia en un arma, y ésta sale disparada por los aires destruyendo el iceberg, dispersando 7 rayos Z blancos y 7 rayos Z negros, los cuales impactaron al perro robot de profesor Utonio, Poochie (dándole la habilidad de hablar y pensar) y a tres chicas",
+    "generos": [],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": "Las Chicas Superpoderosas al rescate",
+                    "video": "https://ok.ru/videoembed/2095608695369",
+                    "poster": null
+                },
+                {
+                    "numero": 2,
+                    "nombre": "Grandes Burbujas",
+                    "video": "https://ok.ru/videoembed/2095608826441",
+                    "poster": null
+                },
+                {
+                    "numero": 3,
+                    "nombre": "¡Y resultaron ser tres!",
+                    "video": "https://ok.ru/videoembed/2095609023049",
+                    "poster": null
+                },
+                {
+                    "numero": 4,
+                    "nombre": "Todo en familia",
+                    "video": "https://ok.ru/videoembed/2095609285193",
+                    "poster": null
+                },
+                {
+                    "numero": 5,
+                    "nombre": "La venganza de Mojo",
+                    "video": "https://ok.ru/videoembed/2095609154121",
+                    "poster": null
+                },
+                {
+                    "numero": 6,
+                    "nombre": "Peludito / La Princesa",
+                    "video": "https://ok.ru/videoembed/2095609416265",
+                    "poster": null
+                },
+                {
+                    "numero": 7,
+                    "nombre": "Alcalde por un día / Los infames chicos Ameba",
+                    "video": "https://ok.ru/videoembed/2095609547337",
+                    "poster": null
+                },
+                {
+                    "numero": 8,
+                    "nombre": "Sedusa",
+                    "video": "https://ok.ru/videoembed/2095609678409",
+                    "poster": null
+                },
+                {
+                    "numero": 9,
+                    "nombre": "La Coach Bellota / Peludito Enamorado",
+                    "video": "https://ok.ru/videoembed/2095609809481",
+                    "poster": null
+                },
+                {
+                    "numero": 10,
+                    "nombre": "El Gran Gigi",
+                    "video": "https://ok.ru/videoembed/2095610137161",
+                    "poster": null
+                },
+                {
+                    "numero": 11,
+                    "nombre": "Amigos influyentes",
+                    "video": "https://ok.ru/videoembed/2095610595913",
+                    "poster": null
+                },
+                {
+                    "numero": 12,
+                    "nombre": "El dilema de Burbuja",
+                    "video": "https://ok.ru/videoembed/2095610792521",
+                    "poster": null
+                },
+                {
+                    "numero": 13,
+                    "nombre": "Mojo y los chicos Ameba / La venganza de Negatrón",
+                    "video": "https://ok.ru/videoembed/2095610726985",
+                    "poster": null
+                },
+                {
+                    "numero": 14,
+                    "nombre": "El ataque de la Banda Gangrena",
+                    "video": "https://ok.ru/videoembed/2095610989129",
+                    "poster": null
+                },
+                {
+                    "numero": 15,
+                    "nombre": "Las Chicas Supermodelos",
+                    "video": "https://ok.ru/videoembed/2095610530377",
+                    "poster": null
+                },
+                {
+                    "numero": 16,
+                    "nombre": "Insomnio en Nueva Saltadilla",
+                    "video": "https://ok.ru/videoembed/2095610333769",
+                    "poster": null
+                },
+                {
+                    "numero": 17,
+                    "nombre": "Enfócate / La venganza de Digitrón",
+                    "video": "https://ok.ru/videoembed/2095610006089",
+                    "poster": null
+                },
+                {
+                    "numero": 18,
+                    "nombre": "La liga del mal de Mojo",
+                    "video": "https://ok.ru/videoembed/2095609350729",
+                    "poster": null
+                },
+                {
+                    "numero": 19,
+                    "nombre": "La práctica hace al pandemoniun",
+                    "video": "https://ok.ru/videoembed/2095610464841",
+                    "poster": null
+                },
+                {
+                    "numero": 20,
+                    "nombre": "Los Chicos Alborotadores",
+                    "video": "https://ok.ru/videoembed/2095608957513",
+                    "poster": null
+                },
+                {
+                    "numero": 21,
+                    "nombre": "El ataque de patito / Venganza vegetal",
+                    "video": "https://ok.ru/videoembed/2095609219657",
+                    "poster": null
+                },
+                {
+                    "numero": 22,
+                    "nombre": "Superpostre de pánico",
+                    "video": "https://ok.ru/videoembed/2095609481801",
+                    "poster": null
+                },
+                {
+                    "numero": 23,
+                    "nombre": "Una comedia de terrores / Batalla de escarabajos",
+                    "video": "https://ok.ru/videoembed/2095609743945",
+                    "poster": null
+                },
+                {
+                    "numero": 24,
+                    "nombre": "Si Ken es tu amigo, eres tú quien lo ayuda",
+                    "video": "https://ok.ru/videoembed/2095610268233",
+                    "poster": null
+                },
+                {
+                    "numero": 25,
+                    "nombre": "Borrando diferencias / Poder de Flor",
+                    "video": "https://ok.ru/videoembed/2095610399305",
+                    "poster": null
+                },
+                {
+                    "numero": 26,
+                    "nombre": "¿Qué quiere Ken para Navidad?",
+                    "video": "https://ok.ru/videoembed/2095609612873",
+                    "poster": null
+                },
+                {
+                    "numero": 27,
+                    "nombre": "El ataque de los Monstruos Sushi",
+                    "video": "https://ok.ru/videoembed/2095609088585",
+                    "poster": null
+                },
+                {
+                    "numero": 28,
+                    "nombre": "La liga de las damas adorables",
+                    "video": "https://ok.ru/videoembed/2095610858057",
+                    "poster": null
+                },
+                {
+                    "numero": 29,
+                    "nombre": "Dañado hasta los dientes / Cuidado con el cabello",
+                    "video": "https://ok.ru/videoembed/2095608891977",
+                    "poster": null
+                },
+                {
+                    "numero": 30,
+                    "nombre": "¿Y quién es Él?",
+                    "video": "https://ok.ru/videoembed/2095608760905",
+                    "poster": null
+                },
+                {
+                    "numero": 31,
+                    "nombre": "El poderoso Bob / Las moras faltantes",
+                    "video": "https://ok.ru/videoembed/2102559115849",
+                    "poster": null
+                },
+                {
+                    "numero": 32,
+                    "nombre": "Dos Burger",
+                    "video": "https://ok.ru/videoembed/2102558919241",
+                    "poster": null
+                },
+                {
+                    "numero": 33,
+                    "nombre": "No existe \"yo\" en las Chicas Superpoderosas",
+                    "video": "https://ok.ru/videoembed/2102559377993",
+                    "poster": null
+                },
+                {
+                    "numero": 34,
+                    "nombre": "Limpiando con los fantasmas",
+                    "video": "https://ok.ru/videoembed/2102559246921",
+                    "poster": null
+                },
+                {
+                    "numero": 35,
+                    "nombre": "Eliminando la maleza / Dia de perros en Nueva Saltadilla",
+                    "video": "https://ok.ru/videoembed/2102558788169",
+                    "poster": null
+                },
+                {
+                    "numero": 36,
+                    "nombre": "Todo es culpa de Él",
+                    "video": "https://ok.ru/videoembed/2102559509065",
+                    "poster": null
+                },
+                {
+                    "numero": 37,
+                    "nombre": "Las Chicas Supersalvajes / Los Chicos Superpoderosos Z",
+                    "video": "https://ok.ru/videoembed/2102559640137",
+                    "poster": null
+                },
+                {
+                    "numero": 38,
+                    "nombre": "Presentando al Séquito",
+                    "video": "https://ok.ru/videoembed/2102559574601",
+                    "poster": null
+                },
+                {
+                    "numero": 39,
+                    "nombre": "El pequeño gran deseo de Ken / Persecución Lunática",
+                    "video": "https://ok.ru/videoembed/2102559443529",
+                    "poster": null
+                },
+                {
+                    "numero": 40,
+                    "nombre": "Níños en televisión / La leyenda de la Princesa",
+                    "video": "https://ok.ru/videoembed/2102559312457",
+                    "poster": null
+                },
+                {
+                    "numero": 41,
+                    "nombre": "Duquesa Superpoderosa / Cambiando Caras",
+                    "video": "https://ok.ru/videoembed/2102559181385",
+                    "poster": null
+                },
+                {
+                    "numero": 42,
+                    "nombre": "Las Chicas Superolorosas",
+                    "video": "https://ok.ru/videoembed/2102558853705",
+                    "poster": null
+                },
+                {
+                    "numero": 43,
+                    "nombre": "El profesor en peligro / ¿Cuál es Lucas Clark?",
+                    "video": "https://ok.ru/videoembed/2102558984777",
+                    "poster": null
+                },
+                {
+                    "numero": 44,
+                    "nombre": "El nuevo movimiento de Bellota",
+                    "video": "https://ok.ru/videoembed/2102558198345",
+                    "poster": null
+                },
+                {
+                    "numero": 45,
+                    "nombre": "¡Y vivieron casi felices por siempre!",
+                    "video": "https://ok.ru/videoembed/2102558329417",
+                    "poster": null
+                },
+                {
+                    "numero": 46,
+                    "nombre": "El regreso de Él",
+                    "video": "https://ok.ru/videoembed/2102558722633",
+                    "poster": null
+                },
+                {
+                    "numero": 47,
+                    "nombre": "Keane toma vacaciones / Cómo quitarle un dulce a un bebé",
+                    "video": "https://ok.ru/videoembed/2102558526025",
+                    "poster": null
+                },
+                {
+                    "numero": 48,
+                    "nombre": "Burbuja y la bestia",
+                    "video": "https://ok.ru/videoembed/2102558591561",
+                    "poster": null
+                },
+                {
+                    "numero": 49,
+                    "nombre": "El rayo de la felicidad / Las Enfermeras Superpoderosas",
+                    "video": "https://ok.ru/videoembed/2102558657097",
+                    "poster": null
+                },
+                {
+                    "numero": 50,
+                    "nombre": "El gran plan de Él",
+                    "video": "https://ok.ru/videoembed/2102558460489",
+                    "poster": null
+                },
+                {
+                    "numero": 51,
+                    "nombre": "Sólo es cuestión de tiempo",
+                    "video": "https://ok.ru/videoembed/2102558394953",
+                    "poster": null
+                },
+                {
+                    "numero": 52,
+                    "nombre": "La Batalla Final",
+                    "video": "https://ok.ru/videoembed/2102558263881",
+                    "poster": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "merlina",
+    "nombre": "Merlina",
+    "poster": "https://cuevana.pro/resize/200/storage/57911/v0OewmKd2H20GPVUzjw2Qp2kefzcbuM5NJpUKOQ2.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/57738/XgpI2Uf7Gzni4s0GNeawzkxC68V6Zn44ZNph6HQO.jpg",
+    "año": 2022,
+    "descripcion": "Una comedia de misterio sobrenatural sobre la mayoría de edad que se centra en Wednesday Addams y sus años como estudiante de secundaria en Nevermore Academy, donde intenta dominar sus poderes psíquicos, detener una monstruosa matanza de los ciudadanos del pueblo y resolver el misterio sobrenatural que afectó a su familia hace 25 años, todo mientras navegaba por sus nuevas relaciones.",
+    "generos": [
+        "Comedia",
+        "Misterio",
+        "Ciencia Ficcion",
+        "Fantasia"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9xdTgzY2oxYXh5MGw=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/57536/AmFSawEAdyDFoh1x4DcgZUCjn3NGX7HEykTedlaE.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9xZTk2YzZsZWk0cTQ=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/57537/O8R0KND7ET1EsSzmL7lQECBU5EYgphoyLK7xoATg.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9nOTBvZG51cDd6M2U=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/57538/JaPsBa8oi04tq5frpjrofhWpSeFV3gR7bXl2GVyp.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi90Zzd3eTRtcHgyZ3A=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/57539/U1dYrwblXa132d2AkVe0P6MEj6C8zYGLfWjBXFTg.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi8xejEycGV6Mm1tYTg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/57540/OPHNvWonvUwreHfXM6milWIcnKql60myAdgaCx8v.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9rcmp3amhzanAxbDg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/57541/TyaYBehJnVDtfxsfHWKiKbZqw8rRfR7l9pDH4buw.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi8xYXd6bHlvaGp3OWw=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/57542/UPzQNsJY4iLh3GNp0YYi9WWhBQ73fpy3cjBweAn0.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9mM3Bmd2xlcGp2MTA=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/57738/XgpI2Uf7Gzni4s0GNeawzkxC68V6Zn44ZNph6HQO.jpg"
+                }
+            ]
+        }
+    ]
+}

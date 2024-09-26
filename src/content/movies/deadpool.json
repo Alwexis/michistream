@@ -1,0 +1,19 @@
+{
+    "id": "deadpool",
+    "nombre": "Deadpool",
+    "poster": "https://cuevana.pro/resize/200/storage/38399/kL8Rywxmrbgd8rt5Hgiu8yYytuLFhnGmksBMzV4a.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/38400/v2bh406WKo0BkucDrebGbbhv95F2YbNqZ9hyFEdA.jpg",
+    "año": 2016,
+    "descripcion": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
+    "generos": [
+        "Accion",
+        "Comedia",
+        "Aventura",
+        "Disney",
+        "Marvel Comics"
+    ],
+    "rating": 8,
+    "duracion": "1h 49m",
+    "tipo": "pelicula",
+    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9td283MWNsYmFteGk="
+}

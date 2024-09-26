@@ -1,0 +1,77 @@
+{
+    "id": "arcane",
+    "nombre": "Arcane",
+    "poster": "https://cuevana.pro/resize/200/storage/43629/0ZihjuqDINyMXhH3RjPeFhMu0L8CtZal8xAVzh6k.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/22697/lvSj0SLzZ4vdqzuI6ZkWgNRwBvKLp9eSF3oxFEco.jpg",
+    "año": 2021,
+    "descripcion": "Con las dispares ciudades de Piltover y Zaun como telón de fondo, dos hermanas luchan en bandos opuestos de una guerra entre tecnologías mágicas y creencias enfrentadas.",
+    "generos": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia",
+        "Animacion"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi92eTYzeWxtamZuZzQ=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22673/z8AVZ1q0QhBUN7twXT21yl5Ir1DGk47IwAp7qNOj.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9vdXRtdDdpbGh2cG4=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22676/ikfqU2SD4RONZ0P8IZpKk4XIkEiFWxRBz2qWKDgj.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9jejUxcWIwNnMxbXU=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22677/97qwjVRAN0pPhQePbsmc4iqKebUbX5e8ezcS32Pc.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9qbWt0eWd6aTcwZ2M=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22678/Twwyftfabrf4o1hvDf869ZLTvC650qeuziwAawwU.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9saml0YjVqZmxyNHU=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22679/qtuAvyDSQplWeA0nqLd1cYwgTp3DBr3oA4uMdM3h.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9rdGF6M3I0MTZmb3M=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22680/5Ewvjg10NDSaqKB1upHRcttTGrkxijXpcAvBrFXd.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9uOXo4NWN1dTZoc3I=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22687/mgXNkFfyzqX5GaOWCyJTTOhtnU1vdJnXOV7mwsJ0.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9najFhNjZ3c3NlcDE=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22692/PAAikM2XOQKQtk1qaNUXBDV0OiE6INLSK48YD4I0.jpg"
+                },
+                {
+                    "numero": 9,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9qd2w3djdiZTNya24=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/22697/lvSj0SLzZ4vdqzuI6ZkWgNRwBvKLp9eSF3oxFEco.jpg"
+                }
+            ]
+        }
+    ]
+}

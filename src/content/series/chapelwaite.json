@@ -1,0 +1,80 @@
+{
+    "id": "chapelwaite",
+    "nombre": "Chapelwaite",
+    "poster": "https://cuevana.pro/resize/200/storage/42556/YC9xXRgqil4KnUdxYmStEkdjx1wMxXCPOWoeFtBB.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/42586/zO6b8lIjuwMSvF7pAWTkzryEwIg6IzcQvPAD9oVx.jpg",
+    "año": 2021,
+    "descripcion": "En la década de 1850, el capitán Charles Boone traslada a su familia de tres hijos a su hogar ancestral en la pequeña y aparentemente tranquila ciudad de Preacher’s Corners, Maine, después de que su esposa muere en el mar. Charles pronto tendrá que enfrentarse a los secretos de la sórdida historia de su familia y luchar para acabar con la oscuridad que ha plagado a los Boone durante generaciones.",
+    "generos": [
+        "Drama",
+        "Misterio"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi90bTFtb2Z4dmM1bXI=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42577/45AKMNqgGGgb73xmDY6yPtnQkcRegzssj5rzljWQ.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9zang0bHAxM3luM2k=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42578/YNJNhBVpIFWh33P0y1yyp43uVKMnlOYt41KoeAuj.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9majJlaG51NDkyeHE=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42579/0w7BDlLCBBkxeQB62iqnxKIwaNSMlQocVh0nntbV.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi81bDdobWY0cmdsY3Y=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42580/eo7kzCADoa2gnNUo8HDpigw7ZgBpRImj8dm1YFDa.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9zZjhwZTJqdXYxa3c=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42581/NRGA564kltZbVN0Zvwix0cpGKe5g6FxOaVhLc0aZ.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi91NnZtdXVleWI1ZGc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42582/Mif6OY9kpjqB9bSUEzJR8DeWY5T7MuxUyWwNi4cJ.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9idjBoa214ZnB2bnc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42583/rQNFUOvJKg85B9welkLiuUSf1SbgtVlc0t7Er8TP.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9mcDg4Z3pyNDE0N2k=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42584/mMsvqTJ1HkXIYATmaXhbGlHmMA0Cp59L7tMu3uq2.jpg"
+                },
+                {
+                    "numero": 9,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi8zYm5laGh5b2gzZ2U=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42585/vikdPU7ZqV1nPZPutG7UlCcoxFxSNrg6Xv5l158f.jpg"
+                },
+                {
+                    "numero": 10,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi85b2Z0eDRjcmxmd28=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/42586/zO6b8lIjuwMSvF7pAWTkzryEwIg6IzcQvPAD9oVx.jpg"
+                }
+            ]
+        }
+    ]
+}

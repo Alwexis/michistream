@@ -1,0 +1,19 @@
+{
+    "id": "pokémon-la-película",
+    "nombre": "Pokémon: La película",
+    "poster": "https://cuevana.pro/resize/200/storage/85413/nPgVte3vkdVgiWllcWpeFu6Hf5WwnHFB4WXPoBh5.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/85414/KclWnOpbUtADDO2s1Upf8kvaAhfT2silwJmJtjB0.jpg",
+    "año": 1998,
+    "descripcion": "Un grupo de científicos ha estado trabajando en un laboratorio secreto, tratando de crear el Pokémon más fuerte que exista. Para ello, han tomado ADN de una muestra de cabello fosilizada del legendario Pokémon Mew, utilizando el código genético de la evasiva criatura para crear a Mewtwo mediante la ingeniería biológica. Ignorantes del poder de su creación, los científicos y sus laboratorios son destruídos por Mewtwo cuando se despierta. Airado con sus creadores, Mewtwo jura vengarse del mundo...",
+    "generos": [
+        "Accion",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion"
+    ],
+    "rating": 8,
+    "duracion": "1h 15m",
+    "tipo": "pelicula",
+    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9ub3UyN3RzczdvMWU="
+}

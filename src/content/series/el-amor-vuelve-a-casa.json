@@ -1,0 +1,56 @@
+{
+    "id": "el-amor-vuelve-a-casa",
+    "nombre": "El amor vuelve a casa (가족X멜로)",
+    "poster": "https://cuevana.pro/resize/200/storage/84022/m6TWfK1OVPHC3lbKpmPHplsXcCAIxNlUCw58zeTU.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/84283/I2UlEULyo1Wywp5AaE6xN92O4Qd9WuMU0FzEGwsU.jpg",
+    "año": 2024,
+    "descripcion": "Un padre que se alejó de su familia tras el fracaso de su negocio reaparece 11 años más tarde como el dueño del edificio donde viven y desata el caos.",
+    "generos": [
+        "Familia",
+        "Doramas"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi92MmkzdHV1czRhMzI=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/84023/hM0y1gjhTfNaVEjUVzRWhyzc3p97pFPhbXLx5PwA.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9naWg0cTljNnZheHo=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/84024/gTSPowonJOi3UVFOWhKbVsR4DBd3j1TYWEcTyqie.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9hajQwd3FoeTJ4Zm0=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/84025/VRMfUk1WcFo9prwa4RxRQEOjBKODkNve0oa4UzEP.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9xZW8wajV0cjRhYWI=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/84026/cM87vmzIF4szse4Kpy4RE8qtp4FWLNLRhiDsWA9L.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9iYWc1dGc2MmtzaWM=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/84282/8WoxVUItIQUHu5flFRCSpeivUuBTX9KdZIiPKgTk.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi81M280dXZwMHh1Mzg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/84283/I2UlEULyo1Wywp5AaE6xN92O4Qd9WuMU0FzEGwsU.jpg"
+                }
+            ]
+        }
+    ]
+}

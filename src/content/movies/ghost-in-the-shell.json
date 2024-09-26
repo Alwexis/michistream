@@ -1,0 +1,18 @@
+{
+    "id": "ghost-in-the-shell",
+    "nombre": "Ghost in the Shell",
+    "poster": "https://cuevana.pro/resize/200/storage/85292/EQLci4WKHXdaYCoW5fNO7QUgCvvp26Jj9htUYQ9y.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/85293/yYFq6Tc2SpcDZiygZBwbO7FV7kUOwBC2CKaQSX31.jpg",
+    "año": 1995,
+    "descripcion": "En un futuro no muy lejano, un grupo de agentes especiales se disponen a encontrar a un hacker misterioso conocido como \"Puppet Master\". En la búsqueda descubrirán alarmantes secretos acerca de la evolución de la inteligencia artificial. La película fue una gran inspiración para la trilogía de Matrix.",
+    "generos": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Animacion",
+        "Anime"
+    ],
+    "rating": 8,
+    "duracion": "1h 22m",
+    "tipo": "pelicula",
+    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9id25oaHQzdmR4dzc="
+}

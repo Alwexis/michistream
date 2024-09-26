@@ -1,0 +1,17 @@
+{
+    "id": "peter-pan-la-gran-aventura",
+    "nombre": "Peter Pan: La gran aventura",
+    "poster": "https://cuevana.pro/resize/200/storage/85814/gaM4sQPbCUMsc2rbGz409E0EWzTrJU42X4CjQrO0.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/85815/pLtmB8f7D8RzXkYqXPlAeWpKSjjFdCdhVxO5R2mB.jpg",
+    "año": 2003,
+    "descripcion": "Adaptación de la historia de J. M. Barrie acerca de un niño que nunca creció. Los tres niños de la familia Darling reciben una visita de Peter Pan, quien los lleva a la Tierra de Nunca Jamás, donde una guerra continua entre la pandilla de Peter y los Niños Perdidos y el malvado pirata Capitán Garfio está teniendo lugar.",
+    "generos": [
+        "Aventura",
+        "Fantasia",
+        "Familia"
+    ],
+    "rating": 8,
+    "duracion": "1h 53m",
+    "tipo": "pelicula",
+    "video": "https://vidsrc.in/embed/movie?tmdb=10601"
+}

@@ -1,0 +1,72 @@
+{
+    "id": "invencible",
+    "nombre": "Invencible",
+    "poster": "https://cuevana.pro/resize/200/storage/48755/MFOewe7tbOQDngChAhdMLsTaQmB9WWEr11y5Cmz2.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/48763/k3nHRpqIE4HUTJ5stdYhVvkTGyxa9EL1RraPuSHn.jpg",
+    "año": 2021,
+    "descripcion": "Mark Grayson es un adolescente normal, excepto por el hecho de que su padre es el superhéroe más poderoso del planeta. Poco después de su decimoséptimo cumpleaños, Mark comienza a desarrollar sus propios poderes y entra en la tutela de su padre.",
+    "generos": [
+        "Accion",
+        "Drama",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia",
+        "Animacion"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi96MnVxaXdxZDN5eGw=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/48756/WNSbVQe1r7Fw4D30jm057rM6G0g2PSdBj2lC8JrL.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9zYjFxbDFpZzZmZng=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/48757/HUWyC6dn8Oi8blygOxBCNVSPnXEX799VdBrxMlNc.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9zbzBybHo2NWpvaTY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/48758/RNxI0aJAiH6iqoIItE42ktzj6yJ5Y4ZV8KFFG8Nz.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi8weGJ3NW9xcWg3YWc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/48759/7zLMDxxyHVWUbakKj1PwQ3Jrrs3Y6uI18jLlEyDB.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi8xYzU0cTUyYTVrOTM=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/48760/HKIP0R4iLfzQDFHShiJzb34Ab8xUDNGJyzrhw9rP.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi84bmZzNGFpMjg1YXk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/48761/dvsA5uwop53DFw3fRKqZCyYKmN9AbyPAONaCmy1S.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9sdHlpNThlaHQwY2Y=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/48762/6jALRn8yDD3NItULm0XoqCQaY6kL4Xei4khBCbai.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi82dzFkeDc2bzBoaGY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/48763/k3nHRpqIE4HUTJ5stdYhVvkTGyxa9EL1RraPuSHn.jpg"
+                }
+            ]
+        }
+    ]
+}

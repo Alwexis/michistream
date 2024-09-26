@@ -1,0 +1,64 @@
+{
+    "id": "el-libro-de-boba-fett",
+    "nombre": "El libro de Boba Fett",
+    "poster": "https://cuevana.pro/resize/200/storage/43621/ZhB8dAZ8iLnZgB300zjiXhoRGN4pDOXpumuKpgyk.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/43628/bfoxtIXLAs5Ha1U7R4Ivh6cDvIOsOaZV1DVHt94u.jpg",
+    "año": 2021,
+    "descripcion": "El legendario cazarrecompensas Boba Fett y la mercenaria Fennec Shand deben navegar por el inframundo de la galaxia cuando regresen a las arenas de Tatooine para reclamar el territorio que una vez gobernó Jabba el Hutt y su sindicato del crimen.",
+    "generos": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi93OXlvZ3dqNzZybTk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/43622/VbtuV0il7QI1GQnxpiVr05nwvg1vVdLQqBuw9qHa.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9xejFzeWpncDkwenc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/43623/ysNm4qSCBkrzmPMZsZirnaawtRveg79skTIiTEbU.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9yYnNpdjlsY3hxa3o=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/43624/1qPSmNbazMtWjCnJQHXJLrb783JP2aiqWmOEvSRj.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi84bHlvMDU3bGx1d2w=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/43625/7aQZ4TkgbRCC9M9B6HzO2fqLZed5qHjbihTN8GeN.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi90dGRtNnhkMGE5bGE=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/43626/KVPEunf8TuvF0lzkvMwkmNazCuMjS2lzLgPf1AKM.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9qYTRnNHNnZG44cGI=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/43627/ZC7YNN34sUYgkQNOxapqhFlOBjAC5USDYBpN4owN.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi94eXQ2eWRpM3N4ZHg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/43628/bfoxtIXLAs5Ha1U7R4Ivh6cDvIOsOaZV1DVHt94u.jpg"
+                }
+            ]
+        }
+    ]
+}

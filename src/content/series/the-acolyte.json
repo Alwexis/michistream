@@ -1,0 +1,70 @@
+{
+    "id": "the-acolyte",
+    "nombre": "The Acolyte",
+    "poster": "https://cuevana.pro/resize/200/storage/77968/w2sn39qP0bWjhcpNITQVXZ6eryWt2XO6ASt5qoNJ.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/81189/QMJ1XmlW39qEtYbIAhNhS1m92knTdsGcShVwx1Xb.jpg",
+    "año": 2024,
+    "descripcion": "\"The Acolyte\" lleva a los espectadores a una galaxia de oscuros secretos y poderes emergentes del lado oscuro en los últimos días de la era de la Alta República.",
+    "generos": [
+        "Misterio",
+        "Ciencia Ficcion",
+        "Fantasia",
+        "Disney"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9hc3UzOTV4Y3pvcXM=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/77969/tE7y4eTWuJsXuUv5zvoraWennlOYbEm02MNLrz3G.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9iNDA2aHUyYWNiMWY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/77970/sPBnJPqVI5poyYHfsHPDjrU7kUeoDkJXeS6nan4z.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi90cTAwYXVwZWN2ZWQ=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/78621/tIuMwuX8Zp4oXE9FcV0EGeVNtHttcsnxbNnquU1q.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9vbmc4eTNiZ3pic3c=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/79172/PoiFHGnmME4yYLlu2tQ34aQrmK487lWXwteLhZmb.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9vd2dxY2lta2JncDk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/79620/FQPGT2o1bMzCoM7PZGLAiF4BuPrTECDlNvwfUGIg.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9xbGIxY2Rpc3lrZWM=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/80093/jdscEcYMLeFtycxZli5mAJSm0cRheJuz0qPFqtjA.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9uY2JyaXFnZTI4YTc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/80621/dQd6zj6qJX2MSda7coXcvPfKw6NMBQntthe9E9Mc.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi85dGRxb3p3NTcya3k=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/81189/QMJ1XmlW39qEtYbIAhNhS1m92knTdsGcShVwx1Xb.jpg"
+                }
+            ]
+        }
+    ]
+}

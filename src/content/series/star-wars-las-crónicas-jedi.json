@@ -1,0 +1,58 @@
+{
+    "id": "star-wars-las-crónicas-jedi",
+    "nombre": "Star Wars: Las crónicas jedi",
+    "poster": "https://cuevana.pro/resize/200/storage/55914/8Ph8OKd6E2AqUvilerFCTofPEslrTPOiugA1tGjc.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/55920/Ob3LIiK1OTYKzDNkRlikyDwZAfyMR6YkguWWFnOB.jpg",
+    "año": 2022,
+    "descripcion": "Adéntrate en la historia de dos jedi muy distintos: Ahsoka Tano y el Conde Dooku. Ambos serán puestos a prueba y tendrán que tomar decisiones que marcarán su destino.",
+    "generos": [
+        "Ciencia Ficcion",
+        "Fantasia",
+        "Animacion",
+        "Disney"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9yc2t5cXZ0ZGpqYXE=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/55915/ZOFaPNPKlCbzDxiyOJkR2uvT3UgarY5oDa5XMWO9.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9xdTdiNnVjaXBmNHg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/55916/hcvmlYeQhza274h1hejAxU3ynj50L8yuyyn97NtH.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9sbnI0cWsxaGw0aXY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/55917/rFzAHeoPlm1ekgFGi3fit2Gu8RkhD9hmJgwlnm1U.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9lZ3dlbXA0c3g0YXk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/55918/Ykme43jJyLNqgTWPKdmsX0U36iYMbb2JuGz0Svu6.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9qNDNwZmJ3ZHU5czI=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/55919/f8N3qzOFu6HV53uLiFLA9V21JBj9an4bk5ISm0Mq.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi80bmN6ODQ2dWxqYmc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/55920/Ob3LIiK1OTYKzDNkRlikyDwZAfyMR6YkguWWFnOB.jpg"
+                }
+            ]
+        }
+    ]
+}

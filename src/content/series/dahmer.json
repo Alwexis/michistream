@@ -1,0 +1,80 @@
+{
+    "id": "dahmer",
+    "nombre": "Dahmer",
+    "poster": "https://cuevana.pro/resize/200/storage/52637/Yia0FAkvqOBMpvi83TtKxbHTM2ZDnnajBUvH3RRz.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/52647/zpyAZJm9KyvsdEwM8TwRV3zUVtEDcbU5kYwKaLio.jpg",
+    "año": 2022,
+    "descripcion": "A lo largo de más de una década, 17 adolescentes y jóvenes fueron asesinados por el asesino en serie Jeffrey Dahmer. ¿Cómo evadió el arresto durante tanto tiempo?",
+    "generos": [
+        "Drama",
+        "Crimen"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi90eGhvcTZqdjY5YXA=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52638/upSRYwsr8qS8kHw3ZtQxJ7EkRs7Fka52XGO58j9J.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9jbG1vZmR6NWRlYWU=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52639/7oGL1VK0CojIEBelvQyLUbpyFyZ6kcLdEpDdqZuf.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi84b2E4YjFpdzVuMHk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52640/ccvQxcgwLhJki1dQCbgt1I3LPPGpwj5rRX4a371I.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9yczh2bWU3d3oxbWY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52641/U8dhOpw1NjUFy4nwZtH1z12HG0Ybew3U3CeDR0pe.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9mdXc4NXFqdWtzOGI=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52642/kDzIlOytgchCFsaJXm9FashnKtNYUJWU3dheMKHb.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi81YnhxaWdyYW43bDA=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52643/kIZnWhfjKqspD3RZmD88wh0nJrTD7R7lFjiPNhsf.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9oNGpwenl5NWYwZXU=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52644/49ks90ejBKDjWL1CaHAFm1nKKLiTIueQgBAHT6z6.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9wendqYzJhaXVwMzc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52645/zA96BgZNPGoWZ7Rz34RIe2gbhk2r3KGeCwBmHADu.jpg"
+                },
+                {
+                    "numero": 9,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9mZXhyMzRsbXE2ODE=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52646/s858c1oHnkn3jogdY0AdTPL0pfXPtjRXEiwvSQW1.jpg"
+                },
+                {
+                    "numero": 10,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9jeTFicm5pMzNqdnE=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/52647/zpyAZJm9KyvsdEwM8TwRV3zUVtEDcbU5kYwKaLio.jpg"
+                }
+            ]
+        }
+    ]
+}

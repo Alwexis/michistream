@@ -1,0 +1,82 @@
+{
+    "id": "adventure-time-fionna-&-cake",
+    "nombre": "Adventure Time: Fionna & Cake",
+    "poster": "https://cuevana.pro/resize/200/storage/65165/x9dXkN5fLmiwKUtweanWhIlGkgcgG4CgupGBIBb7.jpg",
+    "background": "https://cuevana.pro/resize/1720/storage/67193/nHhDioDdLx3ePltz96FdWpM4iAfzPg0WfZ2i09aO.jpg",
+    "año": 2023,
+    "descripcion": "Fionna y Cake, con la ayuda del ex Rey Helado, Simon Petrikov, se embarcan en una aventura de salto multiverso y un viaje de autodescubrimiento. Mientras tanto, un nuevo y poderoso antagonista decidido a localizarlos y borrarlos de la existencia, acecha en las sombras.",
+    "generos": [
+        "Accion",
+        "Aventura",
+        "Fantasia",
+        "Animacion"
+    ],
+    "tipo": "serie",
+    "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+                {
+                    "numero": 1,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi81ZjZmMmlhd3Z0aGg=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/65166/Zq4704ufgNWCChzO1yBslAsJ2IWEISJz59fcb6LA.jpg"
+                },
+                {
+                    "numero": 2,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi96bjVpaXBvNHRpbXM=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/65167/8DirBiVAe93K4eDAHfBZR5YrrJ3zlvFVwrQnDad3.jpg"
+                },
+                {
+                    "numero": 3,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi8zOG44cnc3Y3phZWk=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/65571/eYHvJoIwonYpLRgCk6TcYt2g2dq84t9B01Q6e3do.jpg"
+                },
+                {
+                    "numero": 4,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi91MXN3YzBhMXl6dmY=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/65572/2wGYfqBt29M6bNhriWnd5aVY8CdoUKdjqRZp412n.jpg"
+                },
+                {
+                    "numero": 5,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9saDFvaHZ6Y3hjaW8=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/65573/3d1mNp1PF1IYsvoPEj8NO6eeNovFE5qJGGYLN74W.jpg"
+                },
+                {
+                    "numero": 6,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9ob2RzNWNsazB6MTA=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/65574/xFKPMEQsAup1JM9Zq2pG2Lce6JSNlVSvpSeCXhn5.jpg"
+                },
+                {
+                    "numero": 7,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9tZnBuN2hrdWpwaGM=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/65575/vSqAzlrlfNsEp1JRXSMCAIkoFLGFIy8syiWUgXgV.jpg"
+                },
+                {
+                    "numero": 8,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi90ODJmdGdhYXZiY2E=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/65576/80zPPUWI6KUBqKY6h6uDV4UomZdIaJecL1jgUXnv.jpg"
+                },
+                {
+                    "numero": 9,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9zZnRqdmwxbHpyOTc=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67192/1ItJaB8CDvzCQOADEhfGhWXOZ3GhxaC7mRegLVMX.jpg"
+                },
+                {
+                    "numero": 10,
+                    "nombre": null,
+                    "video": "https://akamai.interplanetary.video/?v=aHR0cHM6Ly92aWRoaWRlcGx1cy5jb20vdi9lNnpicmszYzRieWM=",
+                    "poster": "https://cuevana.pro/resize/1720/storage/67193/nHhDioDdLx3ePltz96FdWpM4iAfzPg0WfZ2i09aO.jpg"
+                }
+            ]
+        }
+    ]
+}
