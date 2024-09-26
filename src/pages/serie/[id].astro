@@ -28,8 +28,6 @@ const { data } = serie;
             <div class="flex flex-col h-72 w-full mx-4">
                 <h1 class="text-2xl font-bold font-montserrat text-slate-100">{ data.nombre }</h1>
                 <section class="flex items-center text-slate-300 font-nunito my-1">
-                    <span>Duración { data.duracion }</span>
-                    <span class="mx-2">⋅</span>
                     <span>Emisión { data.año }</span>
                     <span class="mx-2">⋅</span>
                     <span class="flex items-center">
@@ -119,11 +117,11 @@ const { data } = serie;
         </section>
     </main>
     <script>
-        let actualEl = '';
+        let actualEl: any;
         let prevEpisode = -1;
         let nextEpisode = -1;
 
-        document.querySelectorAll('.temporada-expand').forEach((e) => {
+        document.querySelectorAll('.temporada-expand').forEach((e: any) => {
             e.addEventListener('click', () => {
                 if (actualEl && actualEl != e) {
                     actualEl.parentElement.dataset.expanded = 'false';
@@ -134,7 +132,7 @@ const { data } = serie;
         });
         //? Player
         const videoPlayer = document.getElementById('videoPlayer')
-        document.querySelectorAll('.play-episode').forEach((e) => {
+        document.querySelectorAll('.play-episode').forEach((e: any) => {
             e.addEventListener('click', () => {
                 if (videoPlayer?.classList.contains('hidden')) {
                     videoPlayer.classList.remove('hidden');
@@ -144,9 +142,9 @@ const { data } = serie;
             });
         });
 
-        function changeEpisode(episode) {
-            let e = document.querySelector(`[data-episode="${episode}"]`);
-            if (e.dataset.prevepisode > 0) {
+        function changeEpisode(episode: number) {
+            let e: any = document.querySelector(`[data-episode="${episode}"]`);
+            if (e!.dataset.prevepisode > 0) {
                 document.querySelector('#prevEpisode')?.classList.remove('hidden');
                 document.querySelector('#prevEpisode')?.classList.add('flex');
                 prevEpisode = Number.parseInt(e.dataset.prevepisode);
@@ -162,9 +160,9 @@ const { data } = serie;
                 document.querySelector('#nextEpisode')?.classList.remove('flex');
                 document.querySelector('#nextEpisode')?.classList.add('hidden');
             }
-            document.querySelector('#reproduciendo').innerText = `Reproduciendo Capítulo ${e.dataset.episodename}`
-            videoPlayer.querySelector('iframe').src = e.dataset.url;
-            videoPlayer.scrollIntoView({ behavior: "smooth" });
+            (document.querySelector('#reproduciendo') as any).innerText = `Reproduciendo Capítulo ${e.dataset.episodename}`
+            videoPlayer!.querySelector('iframe')!.src = e.dataset.url;
+            videoPlayer!.scrollIntoView({ behavior: "smooth" });
         }
 
         document.querySelector('#prevEpisode')?.addEventListener('click', (e) => {
@@ -176,8 +174,8 @@ const { data } = serie;
 
         function closeAllSeasons() {
             document.querySelectorAll('.temporada-expand').forEach((e) => {
-                e.parentElement.dataset.expanded = 'false';
-                actualEl = null;
+                e.parentElement!.dataset.expanded = 'false';
+                actualEl = undefined;
             });
         }
     </script>

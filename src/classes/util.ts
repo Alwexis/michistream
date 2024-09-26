@@ -1,9 +1,9 @@
 export class Util {
-	static obtenerValoresAleatorios(array: [], cantidad: number) {
+	static obtenerValoresAleatorios<T>(items: T[], count: number): T[] {
         // Mezclar el array aleatoriamente usando sort y Math.random
-        const arrayMezclado = array.sort(() => Math.random() - 0.5);
+        const arrayMezclado = items.sort(() => Math.random() - 0.5);
         // Retornar los primeros 'cantidad' elementos
-        return arrayMezclado.slice(0, cantidad);
+        return arrayMezclado.slice(0, count);
     }
 }
 
