@@ -1,54 +1,42 @@
-# Astro Starter Kit: Basics
+# Michistream
+
+Es un proyecto con fines educativos que desarrollé con el fin de familiarizarme con Astro hace un tiempo. Puedes ver un catálogo limitado de Series y Películas (extraídas con WebScraping de Cuevana).
+
+## Instalación y ejecución
+> [!IMPORTANT]
+> Para poder ejecutar la aplicación web, deberás de tener instalado [NodeJS](https://nodejs.org/en/download/package-manager/current).
+
+Antes de ejecutar la aplicación web, deberás de dirigirte a la carpeta en la cual se encuentra el contenido del proyecto y ejecutar el siguiente comando:
 
 ```sh
-npm create astro@latest -- --template basics
+npm install
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+Ahora, para ejecutarla, lo único que debes de hacer es utilizar el siguiente comando:
+```sh
+npm start
 ```
+## Previews
+### Home
+![image](https://github.com/user-attachments/assets/d9acca8e-60c9-4a5a-a964-1f337ce2c380)
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### Home - Recomendados
+![image](https://github.com/user-attachments/assets/921f927c-3da5-46dd-947e-29134f220137)
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### Película
+![image](https://github.com/user-attachments/assets/999fad08-4633-4ee5-8aa5-db330680ad1a)
 
-Any static assets, like images, can be placed in the `public/` directory.
+### Reproductor Película
+![image](https://github.com/user-attachments/assets/17101469-fba4-4b37-ad71-d041c71c9fd0)
 
-## 🧞 Commands
+### Serie
+![image](https://github.com/user-attachments/assets/d2534637-6bbe-4b37-b155-a7717348711d)
 
-All commands are run from the root of the project, from a terminal:
+### Temporadas / Capítulos
+![image](https://github.com/user-attachments/assets/98d54787-edf2-4eea-a9dc-f3bd5658bef1)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### Reproductor Serie
+![image](https://github.com/user-attachments/assets/b151a375-0eb2-4dab-a2d0-aa4dd9d9f616)
 
-## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
